@@ -115,5 +115,6 @@ if latestXcodeVersion && latestOSVersion {
 
 if latestXcodeVersion || latestOSVersion {
     print("latestXcodeVersion", latestXcodeVersion)
-    print("latestOsVersion")
+    print("latestOsVersion", latestOSVersion)
+    print("one of my version are up todate")
 }
