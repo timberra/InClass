@@ -50,7 +50,6 @@ print(castIntToDouble)
 
 let optionalString: String? = "100a"
 var convertOptional = Int(optionalString!)
-
 //let sum = myAge + Int(optionalString)
 //print(sum)
 
