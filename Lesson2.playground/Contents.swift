@@ -97,7 +97,11 @@ var convertToInt = Int(stringNumber)
 
 var optionalString: String?
 optionalString = "100t"
+<<<<<<< HEAD
  convertMyOptional = Int(optionalString!)
+=======
+var convertMyOptional = Int(optionalString!)
+>>>>>>> 1d60fae1ddb65d38bd54253bef3a6f0f90995bdd
 
 //print(convertMyOptional!)
 if convertMyOptional == nil {
